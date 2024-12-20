@@ -426,12 +426,12 @@ nav .active {
 }
 
 .hati{
-  color: orangered;
-  font-size: 40px;
+  color: #00FF26;
+  font-size: 25px;
 }
 
 .hati:hover{
-  color: #00FF26 ;
+  color: orangered ;
   cursor: pointer;
   text-shadow: 40px white;
 }
