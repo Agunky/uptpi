@@ -431,7 +431,9 @@ nav .active {
 }
 
 .hati:hover{
-  color: orangered ;
+  color: orangered;
+  text-shadow: 0 0 25px orangered,
+               0 0 50px orangered;
+  transform: scale(1.1);
   cursor: pointer;
-  text-shadow: 40px white;
 }
